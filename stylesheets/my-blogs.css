@@ -1,0 +1,36 @@
+
+html{
+	font-family:"courier";
+}
+
+body{ 
+	background: #eee;
+	padding:20px;
+}
+
+.blogs{
+
+	display: inline-block ;
+	text-decoration:none ;
+	
+}
+#top{
+	text-align:center;
+	border:solid ;
+	margin:20px;
+
+}
+
+
+a:link{
+	font-size :20px ;
+	text-decoration: none ;
+	} 
+a:visited{ 
+	 color: grey
+}
+a:hover{
+
+	color: gold
+
+}

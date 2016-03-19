@@ -1,0 +1,27 @@
+html{
+ background-image: url('http://nickperez1285.github.io/website-files/bridge.jpg');
+ width:100%;
+}
+
+h2 {
+	text-align: center;
+	display: block ;
+	font-size:3em;
+}
+body{
+	
+	border: .125rem solid;
+	margin-left:100px;
+	margin-right: 100px;
+	margin-top:20px;
+	display: inline-block ;
+	background: navajowhite;
+	padding-right: 20px;
+	padding-left:20px;
+	font-family: courier;
+	font-size: small;
+}
+
+#me{
+	text-align:center ;
+}

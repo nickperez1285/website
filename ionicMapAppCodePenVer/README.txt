@@ -1,0 +1,1 @@
+This app is my attempt to transfer our web app to mobile using ionic
